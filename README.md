@@ -6,9 +6,9 @@ I'm Josh! A 16 Year Old Software Developer.
 - Sofware @ fulfilmentcrowd
 
 ## Personal work:
-- Maintainer of EduBlocks
-- Senior Editor at micro:mag
+- Maintainer of [EduBlocks](https://edublocks.org)
+- Senior Editor at [micro:mag](https://micromag.cc)
 
 ## Contact me:
-- Twitter: @all_about_code
-- Email: josh@edublocks.org
+- **Twitter:** [@all_about_code](https://twitter.com/all_about_code)
+- **Email:** [josh@edublocks.org](mailto:josh@edublocks.org)
