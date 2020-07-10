@@ -2,8 +2,8 @@
 
 I'm Josh! A 16 Year Old Software Developer.
 
-## Day Job:
-- Sofware @ [fulfilmentcrowd](https://www.fulfilmentcrowd.com/)
+## What I do:
+- Sofware Apprenticeship @ [fulfilmentcrowd](https://www.fulfilmentcrowd.com/)
 
 ## Personal work:
 - Maintainer of [EduBlocks](https://edublocks.org)
