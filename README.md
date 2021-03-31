@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Josh! A 16 Year Old Software Developer.
+I'm Josh! A 17 Year Old Software Developer.
 
 ## What I do:
 - Junior Developer @ [fulfilmentcrowd](https://www.fulfilmentcrowd.com/)
